@@ -1,0 +1,42 @@
+nav {
+    font-family: 'Anton', sans-serif;
+    color: black;
+}
+
+
+footer{
+    background-color: #A7A0F0;
+}
+
+h1 {font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 70 px;
+    color: #4970F0;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Josefin Sans';
+    color: white; 
+}
+
+h4 {
+    text-align: center;
+    font-family: 'Josefin Sans';
+    color: black; 
+}
+
+h5 {
+    text-align: center;
+    font-family: 'Josefin Sans';
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70 px;
+}
+
+
+
