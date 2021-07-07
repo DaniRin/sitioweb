@@ -11,7 +11,7 @@ footer{
 h1 {
     font-family: 'Pacifico', cursive;
     text-align: center;
-    font-size: 70px;
+    font-size: 100px;
     color: #65645E;
 }
 
@@ -54,5 +54,38 @@ h2 {
     color: #65645E;
     font-size: 17px;
 }
- 
 
+.lista-novedades {
+    margin: 350px;
+    padding: 50px;
+    list-style: none;
+}
+
+.lista-novedades li {
+    margin: 5px 0;
+}
+
+.lista-novedades li a {
+    background-color: #E0C219;
+    transition: all .2s ease-in-out;
+    display: block;
+}
+
+.lista-novedades li a:hover {
+    color: blue;
+    background-color: gray;
+}
+
+.lista-novedades li a img {
+    width: 450px;
+    height: 150px;
+    transition: all .2s ease-in-out;
+    margin-right: 1rem;
+    opacity: 0.7;
+}
+
+.lista-novedades li a:hover img {
+    filter: none;
+    margin-right: 1.4rem;
+    opacity: 1;
+}
